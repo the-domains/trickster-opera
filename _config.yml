@@ -2,6 +2,7 @@ name: Trickster OPERA
 favicon: null
 layout_spectrum: 0.47106406441889703
 typography_spectrum: 0.7706508166156709
+title: tricksteropera
 cta:
   domain: null
   bucket: null
